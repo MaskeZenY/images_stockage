@@ -1,0 +1,146 @@
+[
+  {
+    "name": "Bar Cocktails",
+    "listIndex": 1,
+    "icon": "fa-martini-glass-citrus",
+    "recipes": [
+
+      {
+        "listIndex": 1,
+        "craftingTime": 4000,
+        "label": "Mojito",
+        "ingredients": {
+          "water": 1,
+          "lemon": 1,
+          "sugar": 1
+        },
+        "type": "item",
+        "name": "mojito",
+        "successRate": 100
+      },
+
+      {
+        "listIndex": 2,
+        "craftingTime": 3000,
+        "label": "Gin Tonic",
+        "ingredients": {
+          "gin": 1,
+          "tonic": 1
+        },
+        "type": "item",
+        "name": "gin_tonic",
+        "successRate": 100
+      },
+
+      {
+        "listIndex": 3,
+        "craftingTime": 3000,
+        "label": "Vodka Redbull",
+        "ingredients": {
+          "vodka": 1,
+          "energy_drink": 1
+        },
+        "type": "item",
+        "name": "vodka_redbull",
+        "successRate": 100
+      },
+
+      {
+        "listIndex": 4,
+        "craftingTime": 3500,
+        "label": "Tequila Sunrise",
+        "ingredients": {
+          "tequila": 1,
+          "orange_juice": 1,
+          "grenadine": 1
+        },
+        "type": "item",
+        "name": "tequila_sunrise",
+        "successRate": 100
+      },
+
+      {
+        "listIndex": 5,
+        "craftingTime": 4000,
+        "label": "Piña Colada",
+        "ingredients": {
+          "rum": 1,
+          "pineapple_juice": 1,
+          "coconut_milk": 1
+        },
+        "type": "item",
+        "name": "pina_colada",
+        "successRate": 100
+      },
+
+      {
+        "listIndex": 6,
+        "craftingTime": 3500,
+        "label": "Sex on the Beach",
+        "ingredients": {
+          "vodka": 1,
+          "orange_juice": 1,
+          "cranberry_juice": 1
+        },
+        "type": "item",
+        "name": "sex_on_the_beach",
+        "successRate": 100
+      },
+
+      {
+        "listIndex": 7,
+        "craftingTime": 3500,
+        "label": "Blue Lagoon",
+        "ingredients": {
+          "vodka": 1,
+          "lemonade": 1,
+          "blue_curacao": 1
+        },
+        "type": "item",
+        "name": "blue_lagoon",
+        "successRate": 100
+      },
+
+      {
+        "listIndex": 8,
+        "craftingTime": 3000,
+        "label": "Whiskey Cola",
+        "ingredients": {
+          "whiskey": 1,
+          "cola": 1
+        },
+        "type": "item",
+        "name": "whiskey_cola",
+        "successRate": 100
+      },
+
+      {
+        "listIndex": 9,
+        "craftingTime": 3500,
+        "label": "Spritz",
+        "ingredients": {
+          "prosecco": 1,
+          "aperol": 1,
+          "sparkling_water": 1
+        },
+        "type": "item",
+        "name": "spritz",
+        "successRate": 100
+      },
+
+      {
+        "listIndex": 10,
+        "craftingTime": 3000,
+        "label": "Rhum Coca",
+        "ingredients": {
+          "rum": 1,
+          "cola": 1
+        },
+        "type": "item",
+        "name": "rum_coke",
+        "successRate": 100
+      }
+
+    ]
+  }
+]
